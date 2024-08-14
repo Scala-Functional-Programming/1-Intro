@@ -1,0 +1,54 @@
+/.bsp/
+target/
+# Archivos y carpetas de sbt
+/.idea/
+/target/
+/project/target/
+/project/project/
+/lib_managed/
+/src_managed/
+/.ensime
+/.ensime_cache
+/.classpath
+/.project
+/.settings/
+/.DS_Store
+
+# Archivos relacionados con IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Archivos relacionados con Eclipse
+/.classpath
+/.project
+/.settings/
+
+# Archivos de sistemas operativos
+.DS_Store
+/.metals
+
+
+# Archivos de compilación
+/target/
+/out/
+
+# Archivos temporales
+*.log
+*.lock
+
+# Directorios de caché
+/.metals/
+/.bloop/
+/.cache/
+/.history/
+//.ivy2/
+/.coursier/
+/lib/
+//.bsp/
+/.vscode/
+/logs/
+/log/
+
+# Archivos de configuración local
+/local.properties
+/.vscode
